@@ -24,5 +24,8 @@ source voidenv/bin/active
 pip install django
 django-admin.py startproject void
 
+cp -r settings.py ~/void/void/void/settings.py
+
+
 
 
